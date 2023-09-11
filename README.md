@@ -10,3 +10,5 @@
 ## Status
 
 By running "ds.py" script, the summary statistics (mean, median, statistics deviation) is printed out, and the data visualization is saved as "plot.png".
+
+![Alt text](status.png)
